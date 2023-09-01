@@ -594,6 +594,8 @@ display: flex;
     color: white;
     font-family: Okra, Helvetica,sans-serif;
     font-size: 14px;
+    overflow: hidden;
+    margin-bottom: 0;
 
 
 }
